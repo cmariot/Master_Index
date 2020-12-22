@@ -5,4 +5,4 @@ Welcome! This is an index of all repositories I have completed including additio
 
 ## OpenClassrooms Projects and Certifications
 
-### [Learn programming with C](https://github.com/Sherlac/C)
+- ### [Learn programming with C](https://github.com/Sherlac/C)
