@@ -6,3 +6,7 @@ Welcome ! This is an index of all repositories I have completed including additi
 ## OpenClassrooms Projects and Certifications
 
 - ### [Learn programming with C](https://github.com/Sherlac/C)
+
+## FreeCodeCamp.org
+
+- ### [Responsive Web Design Certification (300 hours)](https://www.freecodecamp.org/learn)
