@@ -3,10 +3,10 @@
 Welcome ! This is an index of all repositories I have pushed with Git.  
 Several of these projects may have been updated since its first installment. Feel free to browse or reach out with any questions.
 
-## Free Ressources for a Dev
+## Free Dev. Ressources
 
-- ### [Ressources](https://github.com/Sherlac/Ressources)
+- ### [Ressources repository](https://github.com/Sherlac/Ressources)
 
-## Portfolio Website - [charles-mariot.fr](https://charles-mariot.fr)
+## Portfolio Website 
 
-- ### [Portfolio](https://github.com/Sherlac/Portfolio)
+- ### [Portfolio repository](https://github.com/Sherlac/Portfolio) - [charles-mariot.fr](https://charles-mariot.fr)
