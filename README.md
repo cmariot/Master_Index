@@ -1,12 +1,12 @@
 # Master Repository Index
 
-Welcome ! This is an index of all repositories I have completed including additional coding challenges and articles written. Several of these projects may have been updated since its first installment. Feel free to browse or reach out with any questions.
+Welcome ! This is an index of all repositories I have pushed with Git.  
+Several of these projects may have been updated since its first installment. Feel free to browse or reach out with any questions.
 
+## Free Ressources for a Dev
 
-## OpenClassrooms Projects and Certifications
+- ### [Ressources](https://github.com/Sherlac/Ressources)
 
-- ### [Learn programming with C](https://github.com/Sherlac/C)
+## Portfolio Website - [charles-mariot.fr](https://charles-mariot.fr)
 
-## FreeCodeCamp.org
-
-- ### [Responsive Web Design Certification (300 hours)](https://www.freecodecamp.org/learn)
+- ### [Portfolio](https://github.com/Sherlac/Portfolio)
